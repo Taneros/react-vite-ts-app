@@ -29,5 +29,7 @@ module.exports = {
         endOfLine: 'auto',
       },
     ],
+    'react/button-has-type': 0,
+    'jsx-a11y/control-has-associated-label': 0,
   },
 }
